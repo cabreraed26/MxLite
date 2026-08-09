@@ -8,6 +8,10 @@
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>MxLite</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>LinkioStudios.MxLite</string>
 	<key>CFBundleInfoDictionaryVersion</key>

@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.mxlite.app</string>
 	<key>CFBundleName</key>
@@ -12,6 +16,8 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>LSUIElement</key>
+	<true/>
 	<key>NSAccessibilityUsageDescription</key>
 	<string>MxLite requiere permisos de Accesibilidad para interceptar eventos de desplazamiento, aplicar Smooth Scrolling de alta resolución y ejecutar atajos de gestos con el botón del pulgar.</string>
 	<key>NSInputMonitoringUsageDescription</key>
